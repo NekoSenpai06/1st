@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    padding: 20px 50px;
+    background-color: pink;
+}
+
+#header h1 {
+    color: white;
+    font-size: 110px;
+    text-align: center;
+    font-family: monospace;
+}
+
+#subtitle {
+    background-color: rgb(255, 223, 229); 
+    text-align: center;
+    font-family: monospace;
+    padding: 20px 0px;
+}
+
+#subtitle img {
+    margin-top: 20px;
+    width: 450px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+#message {
+    padding: 30px 30px;
+    font-family: arial;
+    background-color: rgb(225, 248, 255);
+}
+
+#bottom {
+    text-align: center;
+    background-color: rgb(202, 242, 255);
+}
+
+#bottom h1, h2 {
+    font-family: arial;
+}
